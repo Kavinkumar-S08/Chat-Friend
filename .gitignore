@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.log
+
+# Streamlit config
+.streamlit/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Ollama model files (large!)
+.ollama/
+*.gguf
